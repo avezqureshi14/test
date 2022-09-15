@@ -1,0 +1,62 @@
+Before building PWA application, Do the case studies of all the React application which are fetching data from the API and then move towards building PWA application 
+
+Learn material UI
+
+And before building the social media project please first know in proper mannner to build RESTFULL API (Application Programming Interface) then only build the projects related to DATABASE
+
+1] React Projects
+    Gym Web, Cryptoverse, Netflix
+2] PWA Project
+3] REST API 
+4] Social Media App
+5] Chat App
+6] Ecommerce App
+
+ Gym Website
+1] Overlay Text
+2] React Search bar (Searching from API)
+4] Categories Search Slider (Searching from API)
+5] Pagination
+6] Details Page (Like Products Details Page in Ecommerce) and also related results on that specific topic
+7] Fetching Data in the form of Youtube Videos from Youtube 
+8] Fetching Data From API
+
+Crypto Website
+1] Fetching Data From API
+2] Show More Options in React
+3] Graph.js
+4] React Search bar (Searching from API)
+
+Social Media Website
+1] All CRUD Operations
+2] Like Operation
+3] Date Created
+4] Tags
+5] Adding Image in Form 
+6] Deploying CRUD Operations Project For first Time (Heroku + netlify)
+7] Authentication (Email Login, Google Login, Profile)
+
+Ecommerce Webiste
+1] Add to Cart Functionalities 
+2] Stripe.js for Payments
+3] Shipping Form
+4] Adding Product using commerce.js
+
+Movie Website
+1] Fetching Data from API
+2] Adding Favourites
+3] Live Search Functionalities from API
+
+Restaurant Webiste
+1] Static Category Search
+2] Fetching Data from built in API
+
+Chat Website
+1] Authentication2] Video Notificatiopn 
+3] GIF support, EMoji SUpport
+4[ Creating Groups and Many More using GetStream.io 
+
+More things ...
+Google Maps API
+Push.js
+Rich Text Editor
